@@ -1,0 +1,4 @@
+Suggested that autosync should work
+
+Will try lightweight tagging
+
